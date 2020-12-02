@@ -3,6 +3,7 @@
 # You *must* edit/modify/run boards.txt.py to regenerate boards.txt.
 # All modified files after running with option "--allgen" must be included in the pull-request.
 #
+# este es un comentario
 
 menu.BoardModel=Model
 menu.ESPModule=Module
